@@ -1,4 +1,7 @@
-## Hey there, I'm Steve! 👋
+# Hey there, I'm Steve! 👋
+
+
+Let's connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jake_d_dog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stevenjakefajarillo)
@@ -32,8 +35,13 @@
 
 ---
 
+### 🧷 Holopin Badges
+[![An image of @sateban's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sateban)](https://holopin.io/@sateban)
+
 ### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sateban&theme=dark&hide_border=false&layout=compact)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sateban&area=true&hide_border=true&days=39&custom_title=Contribution%20Graph&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Profile Views](https://komarev.com/ghpvc/?username=sateban&style=for-the-badge&color=008080)](https://github.com/antonkomarev/github-profile-views-counter)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
